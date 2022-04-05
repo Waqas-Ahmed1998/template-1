@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* font-family: 'Inter', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: "popins", sans-serif; */
+  /* font-family: "Tajawal", sans-serif; */
+
+}
+h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+/* fonts  */
+/* font-family: 'Anton', sans-serif;
+font-family: 'Anybody', cursive;
+font-family: 'Changa', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Tajawal', sans-serif;
+font-family: 'Vazirmatn', sans-serif; */
